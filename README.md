@@ -13,9 +13,11 @@ My personal i3 configuration on Arch Linux
 </p>
 
 <p align="center">
-  <img src="./Screenshots/SDDM.png">
+  <img src="./Screenshots/VSCode.png">
   <br>
 </p>
+
+
 
 ## Setup
 - **OS**: Arch Linux
@@ -29,3 +31,10 @@ My personal i3 configuration on Arch Linux
 - **Browser**: Firefox
 - **Wallpaper**: Catppuccin Street & spooky spill
 - **SDDM Theme**: Sugar Candy
+
+## SDDM Preview
+
+<p align="center">
+  <img src="./Screenshots/SDDM.png">
+  <br>
+</p>
